@@ -1,0 +1,4 @@
+num1 = input("number?")
+num2 = input("another!")
+res=num1 + num2
+print(res)
